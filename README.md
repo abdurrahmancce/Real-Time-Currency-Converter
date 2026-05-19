@@ -236,21 +236,22 @@ Exchange rates automatically refresh every:
 
 # 📸 Recommended Screenshots
 
-Create a `screenshots/` folder and add:
+Light Mode : 
 
-```bash
-screenshots/
- ┣ light-mode.png
- ┣ dark-mode.png
- ┣ conversion-history.png
- ┗ export-csv.png
-```
+<img width="676" height="1012" alt="image" src="https://github.com/user-attachments/assets/dc6acb3c-dc0b-4c4f-b0c3-a17a3ef61ad3" />
 
-Then display them like this:
+Dark Mode :
 
-```markdown
-![Light Mode](screenshots/light-mode.png)
-```
+<img width="685" height="992" alt="image" src="https://github.com/user-attachments/assets/525e19c8-be23-4afa-bbf9-789196ba67df" />
+
+Conversion History :
+
+<img width="675" height="1009" alt="image" src="https://github.com/user-attachments/assets/3b04507d-d04b-4124-83b6-857a008bfefe" />
+
+ Export-CSV :
+ 
+ <img width="839" height="88" alt="image" src="https://github.com/user-attachments/assets/95eeddcc-87fa-4468-8ba2-2b7bb94a46b3" />
+
 
 ---
 
