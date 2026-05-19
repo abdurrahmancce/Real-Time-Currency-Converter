@@ -234,7 +234,7 @@ Exchange rates automatically refresh every:
 
 ---
 
-# 📸 Recommended Screenshots
+# 📸 Screenshots
 
 Light Mode : 
 
